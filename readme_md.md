@@ -167,20 +167,3 @@ Key dependencies include:
 **"Account Not Found" Error**: The specified mint address or account doesn't exist.
 
 **Transaction Failures**: Check your SOL balance and network connectivity.
-
-## Network Support
-
-- **Devnet**: Recommended for testing
-- **Mainnet-beta**: Production use (use with caution)
-- **Testnet**: Limited support
-
-## Limitations
-
-- Requires Token-2022 program support
-- Confidential transfers require proof generation (may be slow)
-- Original tokens are locked in vault during wrapping period
-- CLI currently supports single-user operations
-
-## License
-
-This project is provided as-is for educational and development purposes.
